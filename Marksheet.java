@@ -47,3 +47,5 @@ public class Marksheet {
         System.out.println("Grade: " + grade);
     }
 }
+
+//PatternExamples

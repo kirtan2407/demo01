@@ -132,4 +132,4 @@ public class PatternExamples {
 
 //hey chages this file git commit --amend --no-edit command use..
 //hey chages this file diff command use..
-//hey chages this file diff --staged command use..
+//hey chages this file diff --staged command ..
